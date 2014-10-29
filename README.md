@@ -95,21 +95,21 @@ Dr. Tom Yeh
 # Teaching
 
 * 2014 Summer-Fall	Guest Lecture, Teens Cafe, CU Science Discovery, Boulder, USA
-⋅⋅⋅ Guest lectured at three workshops for high school students “Tactile Storytelling: Re-Envisioning the Written Word”
+> Guest lectured at three workshops for high school students “Tactile Storytelling: Re-Envisioning the Written Word”
 * 2014 Summer	Teaching Assistant, Department of Computer Science, University of Colorado Boulder, USA
-⋅⋅⋅ Teaching Introductory Linux and C++ (Introduction to Programming, CSCI 1300)
+> Teaching Introductory Linux and C++ (Introduction to Programming, CSCI 1300)
 * 2013 Fall	Teaching Assistant, Department of Computer Science, University of Colorado Boulder, USA
-⋅⋅⋅ Teaching Introductory Linux and Python/Java/C++ (Introduction to Programming, CSCI 1300)
+> Teaching Introductory Linux and Python/Java/C++ (Introduction to Programming, CSCI 1300)
 * 2013 Spring	Grader, Department of Computer Science, University of Colorado Boulder, USA
-⋅⋅⋅ Grading for "Big Data-Human Computer Interaction"(CSCI 7000)
+> Grading for "Big Data-Human Computer Interaction"(CSCI 7000)
 * 2009-2010	Lecturer, Korea Migrants Center, South Korea
-⋅⋅⋅ Lectured "How to use Windows and MS Office," and "How to use e-commerce," for immigrants
+> Lectured "How to use Windows and MS Office," and "How to use e-commerce," for immigrants
 * 2009	After-school Teacher, Dukyang Middle School, Gyunggi-do, South Korea
-⋅⋅⋅ Directed middle school students as a mentor; taught extracurricular science and mathematics classes
+> Directed middle school students as a mentor; taught extracurricular science and mathematics classes
 * 2005-2009	Lecturer, Intrusion Defense Team, Korea Aerospace University, South Korea
-⋅⋅⋅ Lectured for C-Languages, Data Structures with C++ Languages class
+> Lectured for C-Languages, Data Structures with C++ Languages class
 * 2006-2007	Private Tutor, Yanbian University of Science and Technology (YUST), China
-⋅⋅⋅ Tutored Korean and English as a second language for Chinese students
+> Tutored Korean and English as a second language for Chinese students
 
 # Service
 [List any community service you've done during your time at CU]
