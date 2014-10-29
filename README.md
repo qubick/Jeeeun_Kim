@@ -5,7 +5,7 @@ Jeeeun Kim
 
 ## Photo
 [upload a photo and add it here]
-[This is the syntax for uploading a photo: ![](images/profile.png)]
+![](files/me.png)
 
 ## Email
 * jeeeun.kim@colorado.edu
