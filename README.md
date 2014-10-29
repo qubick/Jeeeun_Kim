@@ -70,8 +70,7 @@ Dr. Tom Yeh
 * 2011, Method and system for distributing business application and content for mobile equipment using application store and wireless AP, Patents, Korean Intellectual Property Office, South Korea (Publication No. 1020110010253)
 
 ## Presentations
-[Insert file pointers or URLs to your presentations below]
-* {Teen's Cafe, CU Science Discovery, 2014 Summer-Fall} [pptx](files/presentation-file.pptx)
+* Teen's Cafe, CU Science Discovery, 2014 Summer-Fall, [pptx](https://docs.google.com/presentation/d/1DDtuQaBYrfcRkx1avdbHtyU2gyPJw617NZsebAKt0Rk/edit#slide=id.g350673ade_110)
       
 ## Awards
 
@@ -112,7 +111,7 @@ Dr. Tom Yeh
 > Tutored Korean and English as a second language for Chinese students
 
 # Service
-* {2015, Paper review, CHI, CSCW}
+* 2015, Paper review, CHI, CSCW
 * 2014, Paper review, CHI, SUI, CHI Play, ITS, Mobile HCI, TVX, DIS, TEI
 * 2013, Paper review, UIST
 * 2012, Student Volunteer, NAGC 2012 Convention
