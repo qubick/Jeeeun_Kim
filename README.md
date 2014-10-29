@@ -102,19 +102,21 @@ Dr. Tom Yeh
 > Teaching Introductory Linux and Python/Java/C++ (Introduction to Programming, CSCI 1300)
 * 2013 Spring	Grader, Department of Computer Science, University of Colorado Boulder, USA
 > Grading for "Big Data-Human Computer Interaction"(CSCI 7000)
-* 2009-2010	Lecturer, Korea Migrants Center, South Korea
+* 2009-2010	Lecturer, Korea Migrants Center, Korea
 > Lectured "How to use Windows and MS Office," and "How to use e-commerce," for immigrants
-* 2009	After-school Teacher, Dukyang Middle School, Gyunggi-do, South Korea
+* 2009	After-school Teacher, Dukyang Middle School, Gyunggi-do, Korea
 > Directed middle school students as a mentor; taught extracurricular science and mathematics classes
-* 2005-2009	Lecturer, Intrusion Defense Team, Korea Aerospace University, South Korea
-	> Lectured for C-Languages, Data Structures with C++ Languages class
+* 2005-2009	Lecturer, Intrusion Defense Team, Korea Aerospace University, Korea
+> Lectured for C-Languages, Data Structures with C++ Languages class
 * 2006-2007	Private Tutor, Yanbian University of Science and Technology (YUST), China
 > Tutored Korean and English as a second language for Chinese students
 
 # Service
-[List any community service you've done during your time at CU]
+* {2015, Paper review, CHI, CSCW}
+* 2014, Paper review, CHI, SUI, CHI Play, ITS, Mobile HCI, TVX, DIS, TEI
+* 2013, Paper review, UIST
+* 2012, Student Volunteer, NAGC 2012 Convention
 
-* {community service}
 
 # Highlights
 [Insert any highlights you would like to share, such as travel, project photos, community work, etc.]
