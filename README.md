@@ -42,18 +42,18 @@ Dr. Tom Yeh
 
 | Course           | Taken             | Planned            | Depth    | Breadth | 
 | ---------------- | ----------------- | ------------------ | -------- | ------- |
-| CSCI 7000 Things That Think |  | N/A  | yes | no|
-| ATLS 5519 Digital Media/Critical Theory| Spring 2013 | N/A  | no | no|
-| CSCI 5817 Database Systems | Spring 2014 | N/A	| no | yes |
+| CSCI 5529 Computer Graphics | Fall 2014 | N/A | yes | yes |
+| CSCI 5817 Database Systems | Spr. 2014 | N/A	| no | yes |
 | CSCI 5832 Natural Language Processing | Fall 2013 | N/A | no | yes |
+| ATLS 5519 Digital Media/Critical Theory| Spring 2013 | N/A  | no | no|
+| CSCI 5753 Computational Performance Modeling | Spr. 2013 | N/A | no | yes |
+| CSCI 5900 Mater Level Indept Study | Fall 2012 | N/A | no | no |
+| CSCI 5900 Mater Level Indept Study | Spr. 2013 | N/A | no | no |
+| CSCI 7000 Adv. Computer Animation | Spr. 2013 | N/A | yes | yes |
 | CSCI 5839 User-Centered Desgin | Fall 2012 | N/A | yes | yes |
 | CSCI 6810 Computational Biology | Fall 2012 | N/A | no | no |
-| CSCI 7000 Adv. Computer Animation | Spring 2013 | N/A | yes | yes |
 | CSCI 7772 Topics Cognitive Science | Fall 2012 | N/A | no | no |
-| CSCI 5529 Computer Graphics | Fall 2014 | N/A | yes | yes |
-| CSCI 5753 Computational Performance Modeling | Spring 2013 | no | yes |
-| CSCI 5900 Mater Level Indept Study | Spring 2013 | N/A | no | no |
-| CSCI 5900 Mater Level Indept Study | Fall 2012 | N/A | no | no |
+| CSCI 7000 Things That Think | Fall 2012 | N/A  | yes | no|
 
 ## Post Graduation Goals
 * 1st Preference: Academic Position
