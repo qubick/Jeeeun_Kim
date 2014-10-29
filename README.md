@@ -8,8 +8,8 @@ Jeeeun Kim
 [This is the syntax for uploading a photo: ![](images/profile.png)]
 
 ## Email
-jeeeun.kim@colorado.edu
-qubick.kim@gmail.com
+* jeeeun.kim@colorado.edu
+* qubick.kim@gmail.com
 
 ## Website
 www.jeeeunkim.com
@@ -59,7 +59,15 @@ Dr. Tom Yeh
 
 ## Publications
 
-* [year], [title], [conference or journal], [acceptance rate], [link to the paper]
+* 2014,	Using LEGO to Model 3D Tactile Picture Books by Sighted Children for Blind Children, SUI
+* 2014,	SikuliBot: Automating Physical User Interface Usingi Images, UIST
+* 2014,	3D Printed Tactile Picture Books for Children with Visual Impairments: A Design Probe, IDC
+* 2014,	Evaluating Tactile User Experience with Tactile Picture Books for Children with Visual Impairment, CHI
+* 2014,	Technology to Support Emergent Literacy Skills in Young Children with Visual Impairments, CHI
+* 2014,	Tactile Picture Books for Young Children with Visual Impairment, TEI
+* 2013,	Printing Tactile Picture Books for Blind children, ACM Grace Hopper Celebration
+* 2012,	Method and system for distributing business application and content for mobile equipment using application store and wireless AP, Patents, United States Patent and Trademark Office, USA (Publication No. US20120197765A1)
+* 2011, Method and system for distributing business application and content for mobile equipment using application store and wireless AP, Patents, Korean Intellectual Property Office, South Korea (Publication No. 1020110010253)
 
 ## Presentations
 [Insert file pointers or URLs to your presentations below]
@@ -87,21 +95,21 @@ Dr. Tom Yeh
 # Teaching
 
 * 2014 Summer-Fall	Guest Lecture, Teens Cafe, CU Science Discovery, Boulder, USA
-		Guest lectured at three workshops for high school students “Tactile Storytelling: Re-Envisioning the Written Word”
+..* Guest lectured at three workshops for high school students “Tactile Storytelling: Re-Envisioning the Written Word”
 * 2014 Summer	Teaching Assistant, Department of Computer Science, University of Colorado Boulder, USA
-**	Teaching Introductory Linux and C++ (Introduction to Programming, CSCI 1300)
+..* Teaching Introductory Linux and C++ (Introduction to Programming, CSCI 1300)
 * 2013 Fall	Teaching Assistant, Department of Computer Science, University of Colorado Boulder, USA
-	Teaching Introductory Linux and Python/Java/C++ (Introduction to Programming, CSCI 1300)
+..* Teaching Introductory Linux and Python/Java/C++ (Introduction to Programming, CSCI 1300)
 * 2013 Spring	Grader, Department of Computer Science, University of Colorado Boulder, USA
-	Grading for "Big Data-Human Computer Interaction"(CSCI 7000)
+..* Grading for "Big Data-Human Computer Interaction"(CSCI 7000)
 * 2009-2010	Lecturer, Korea Migrants Center, South Korea
-	Lectured "How to use Windows and MS Office," and "How to use e-commerce," for immigrants
+..* Lectured "How to use Windows and MS Office," and "How to use e-commerce," for immigrants
 * 2009	After-school Teacher, Dukyang Middle School, Gyunggi-do, South Korea
-	Directed middle school students as a mentor; taught extracurricular science and mathematics classes
+..* Directed middle school students as a mentor; taught extracurricular science and mathematics classes
 * 2005-2009	Lecturer, Intrusion Defense Team, Korea Aerospace University, South Korea
-	Lectured for C-Languages, Data Structures with C++ Languages class
+..* Lectured for C-Languages, Data Structures with C++ Languages class
 * 2006-2007	Private Tutor, Yanbian University of Science and Technology (YUST), China
-	Tutored Korean and English as a second language for Chinese students
+..* Tutored Korean and English as a second language for Chinese students
 
 # Service
 [List any community service you've done during your time at CU]
