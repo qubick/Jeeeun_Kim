@@ -70,7 +70,7 @@ Dr. Tom Yeh
 * 2011, Method and system for distributing business application and content for mobile equipment using application store and wireless AP, Patents, Korean Intellectual Property Office, South Korea (Publication No. 1020110010253)
 
 ## Presentations
-* Teen's Cafe, CU Science Discovery, 2014 Summer-Fall, [pptx](https://docs.google.com/presentation/d/1DDtuQaBYrfcRkx1avdbHtyU2gyPJw617NZsebAKt0Rk/edit#slide=id.g350673ade_110)
+* Teen's Cafe, CU Science Discovery, 2014 Summer - Fall, [pptx](https://docs.google.com/presentation/d/1DDtuQaBYrfcRkx1avdbHtyU2gyPJw617NZsebAKt0Rk/edit#slide=id.g350673ade_110)
       
 ## Awards
 
