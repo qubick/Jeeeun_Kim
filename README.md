@@ -4,7 +4,6 @@
 Jeeeun Kim
 
 ## Photo
-[upload a photo and add it here]
 ![](files/me.png)
 
 ## Email
