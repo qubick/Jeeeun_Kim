@@ -89,7 +89,7 @@ Dr. Tom Yeh
 * 2014 Summer-Fall	Guest Lecture, Teens Cafe, CU Science Discovery, Boulder, USA
 		Guest lectured at three workshops for high school students “Tactile Storytelling: Re-Envisioning the Written Word”
 * 2014 Summer	Teaching Assistant, Department of Computer Science, University of Colorado Boulder, USA
-	Teaching Introductory Linux and C++ (Introduction to Programming, CSCI 1300)
+**	Teaching Introductory Linux and C++ (Introduction to Programming, CSCI 1300)
 * 2013 Fall	Teaching Assistant, Department of Computer Science, University of Colorado Boulder, USA
 	Teaching Introductory Linux and Python/Java/C++ (Introduction to Programming, CSCI 1300)
 * 2013 Spring	Grader, Department of Computer Science, University of Colorado Boulder, USA
