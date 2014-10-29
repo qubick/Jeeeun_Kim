@@ -8,24 +8,24 @@ Jeeeun Kim
 [This is the syntax for uploading a photo: ![](images/profile.png)]
 
 ## Email
-[your @colorado.edu address]
+jeeeun.kim@colorado.edu
+qubick.kim@gmail.com
 
 ## Website
-[If you have a website, put the URL here]
+www.jeeeunkim.com
 
 # Current Funding
-[Explain your funding situation?]
+RA for Dr.Tom Yeh
 
 # PhD Program
 
 ## Thesis Advisor
-[Advisor name here]
+Dr. Tom Yeh
 
 ## Committee 
-[Fill out your thesis committee below, if you know it]
 
-* Member 1 
-* Memeber 2
+* Dr. Tom Yeh
+* Member 2
 * Member 3
 * Member 4 
 * Member 5
@@ -34,10 +34,10 @@ Jeeeun Kim
 
 | Milestone            | Completed         | Planned           |         
 | -------------------- | ----------------- | ----------------- |
-| Start                | Spring 2011       |                   |
-| Area Exam            | {semester} {year} | {semester} {year} |
-| Proposal Defense     | {semester} {year} | {semester} {year} |
-| Dissertation Defense | {semester} {year} | Fall 2014         |
+| Start                | Fall 2014	       |                   |
+| Area Exam            | {semester} {year} | Fall 2015		   |
+| Proposal Defense     | {semester} {year} | Fall 2017		   |
+| Dissertation Defense | {semester} {year} | Fall 2018         |
 
 ## Courses
 
@@ -51,13 +51,13 @@ Jeeeun Kim
 | {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
 
 ## Post Graduation Goals
+1st Preference: Academic Position
+2nd Preference: Research Lab at the Inductry
 
-{Academic position? Industry position? Government? Startup? Retired? Not sure?}
 
 # Research
 
 ## Publications
-[Use the following format to list your publications]
 
 * [year], [title], [conference or journal], [acceptance rate], [link to the paper]
 
