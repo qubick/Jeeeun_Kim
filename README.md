@@ -134,5 +134,14 @@ Dr. Tom Yeh
 
 
 # Highlights
-[Insert any highlights you would like to share, such as travel, project photos, community work, etc.]
+
+## 3D-printed Goodnight Moon
+![goodnight moon](files/photo.png)
+
+## 3D-printed book exhibit in the Gemmill Engineering Library
+![harold](files/photo.png)
+
+## Makerbot Demo
+![makerbot](files/photo.png)
+
 
