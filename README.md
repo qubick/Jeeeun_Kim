@@ -59,26 +59,30 @@ Dr. Tom Yeh
 
 ## Publications
 
-* 2014,	Using LEGO to Model 3D Tactile Picture Books by Sighted Children for Blind Children, SUI
+* 2014,	Using LEGO to Model 3D Tactile Picture Books by Sighted Children for Blind Children, SUI,
 [PDF](http://dl.acm.org/citation.cfm?id=2659766.2661211&coll=DL&dl=ACM&CFID=592241602&CFTOKEN=24331738)
-* 2014,	SikuliBot: Automating Physical User Interface Usingi Images, UIST
+* 2014,	SikuliBot: Automating Physical User Interface Usingi Images, UIST,
 [PDF](http://dl.acm.org/citation.cfm?id=2658779.2659110&coll=DL&dl=ACM&CFID=591653778&CFTOKEN=79865555)
-* 2014,	3D Printed Tactile Picture Books for Children with Visual Impairments: A Design Probe, IDC
+* 2014,	3D Printed Tactile Picture Books for Children with Visual Impairments: A Design Probe, IDC,
 [PDF](http://dl.acm.org/citation.cfm?id=2593968.2610482&coll=DL&dl=ACM&CFID=592241602&CFTOKEN=24331738)
-* 2014,	Evaluating Tactile User Experience with Tactile Picture Books for Children with Visual Impairment, CHI
+* 2014,	Evaluating Tactile User Experience with Tactile Picture Books for Children with Visual Impairment, CHI,
 [PDF](http://tactile-ux-evaluation.cure.at/uploads/media/tactile_ux_evaluation/Evaluating_Tactile_User_Experiences_with_Tactile_Picture_Books_for_Children_with_Visual_Impairment.pdf)
-* 2014,	Technology to Support Emergent Literacy Skills in Young Children with Visual Impairments, CHI
+* 2014,	Technology to Support Emergent Literacy Skills in Young Children with Visual Impairments, CHI,
 [PDF](http://dl.acm.org/citation.cfm?id=2559206.2581341&coll=DL&dl=ACM&CFID=592241602&CFTOKEN=24331738)
-* 2014,	Tactile Picture Books for Young Children with Visual Impairment, TEI
+* 2014,	Tactile Picture Books for Young Children with Visual Impairment, TEI,
 [PDF](http://www.tei-conf.org/14/wip/wip-kim.pdf)
-* 2013,	Printing Tactile Picture Books for Blind children, ACM Grace Hopper Celebration
+* 2013,	Printing Tactile Picture Books for Blind children, Grace Hopper Celebration
 * 2012,	Method and system for distributing business application and content for mobile equipment using application store and wireless AP, Patents, United States Patent and Trademark Office, USA (Publication No. US20120197765A1)
 [PDF] (https://www.google.com/patents/US20120197765?pg=PA1&dq=Pub.+No.+US20120197765A1&hl=en&sa=X&ei=lHHUUu3HLarwyAGR3YDYBw&ved=0CDcQ6AEwAA)
 * 2011, Method and system for distributing business application and content for mobile equipment using application store and wireless AP, Patents, Korean Intellectual Property Office, South Korea (Publication No. 1020110010253)
 
 ## Presentations
-* Teen's Cafe, CU Science Discovery, 2014 Summer - Fall, [pptx](https://docs.google.com/presentation/d/1DDtuQaBYrfcRkx1avdbHtyU2gyPJw617NZsebAKt0Rk/edit#slide=id.g350673ade_110)
-      
+* 2014 Summer - Fall,	Teen's Cafe, CU Science Discovery
+[pptx](https://docs.google.com/presentation/d/1DDtuQaBYrfcRkx1avdbHtyU2gyPJw617NZsebAKt0Rk/edit#slide=id.g350673ade_110)
+* 2014,	Touch Me Workshop, CHI
+[pptx](https://www.dropbox.com/s/fdpoxu1eky4ig17/Presentation-tactile-workshop_jeeeunKim.pptx?dl=0)
+ 
+   
 ## Awards
 
 * 2014,	University Fellowship, Department of Computer Science, University of Colorado Boulder, USA
