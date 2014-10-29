@@ -107,7 +107,7 @@ Dr. Tom Yeh
 * 2009	After-school Teacher, Dukyang Middle School, Gyunggi-do, South Korea
 > Directed middle school students as a mentor; taught extracurricular science and mathematics classes
 * 2005-2009	Lecturer, Intrusion Defense Team, Korea Aerospace University, South Korea
-> Lectured for C-Languages, Data Structures with C++ Languages class
+	> Lectured for C-Languages, Data Structures with C++ Languages class
 * 2006-2007	Private Tutor, Yanbian University of Science and Technology (YUST), China
 > Tutored Korean and English as a second language for Chinese students
 
