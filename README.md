@@ -1,7 +1,7 @@
 # Personal Information
 
 ## Name
-[Place your name here]
+[Jeeeun Kim]
 
 ## Photo
 [upload a photo and add it here]
